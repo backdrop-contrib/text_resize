@@ -1,5 +1,5 @@
 (function ($) { // JavaScript should be compatible with other libraries than jQuery
-  Drupal.behaviors.textResize = { // D7 "Changed Drupal.behaviors to objects having the methods "attach" and "detach"."
+  Backdrop.behaviors.textResize = { // D7 "Changed Backdrop.behaviors to objects having the methods "attach" and "detach"."
     attach: function(context) {
       // Which div or page element are we resizing?
       if (text_resize_scope) { // Admin-specified scope takes precedence.
