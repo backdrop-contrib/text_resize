@@ -29,8 +29,7 @@ You'll find the help at /admin/help/text_resize.
 Issues
 ------
 
-Bugs and feature requests should be reported in [the Issue Queue](https://github.
-com/backdrop-contrib/text_resize/issues).
+Bugs and feature requests should be reported in [the Issue Queue](https://github.com/backdrop-contrib/text_resize/issues).
 
 Current Maintainers
 -------------------
